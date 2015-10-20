@@ -1,4 +1,4 @@
-# LoginFormW-DataBinding
+# Android Marshmallow 6.0 simple Login form with Data Binding
 
 A simple example showing a login form created and managed using data binding. The form also performs basic data validation using data binding concepts. The example also uses `TextInputLayout` to display errors such as "wrong email" or "Fields are empty", etc.
 
